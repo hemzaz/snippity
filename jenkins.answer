@@ -2,3 +2,6 @@ Clean up artifactory plugin
 by jfrog
 https://wiki.jenkins.io/display/JENKINS/Discard+Old+Build+plugin
 https://www.jfrog.com/confluence/display/RTF/Jenkins+Artifactory+Plug-in
+
+no need to recreate the wheel!
+https://github.com/jfrog/artifactory-user-plugins/tree/master/cleanup/artifactCleanup
