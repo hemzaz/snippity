@@ -1,0 +1,4 @@
+lambda
+2 lambda functions one to stop and the second to start
+iam policy to allow shutting down and starting machines
+cloudwatch trigger to launch the lambda functions
